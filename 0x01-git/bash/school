@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "The school is closed and now go home"
+echo "New update for school"
 echo "The new school is here"
 echo "The school is open"
 #New update for school
