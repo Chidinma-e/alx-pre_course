@@ -1,3 +1,4 @@
 #!/bin/bash
+echo "The new school is here"
 echo "The school is open"
-New update for school
+#New update for school
